@@ -6,6 +6,10 @@ Overview :
 
 This project involves cloning an existing medical hospital website and enhancing it with modern features, including an AI-powered chatbot. The  website aims to provide comprehensive healthcare services and information to patients, doctors, and hospital staff, while improving user interaction and operational efficiency.
 
+
+
+
+
 Objective :
 
 
